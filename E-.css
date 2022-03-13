@@ -11,21 +11,21 @@
 }
 
 .home .banner1{
-    background-image: url("/e-commersial/images/slide1.jpg");
+    background-image: url("/images/slide1.jpg");
     background-repeat:no-repeat;
     background-position: 100% center;
     background-size: cover;
     position: relative;
     min-height: 650px;
 }.home .banner2{
-  background-image: url("/e-commersial/images/slide2.jpg");
+  background-image: url("/images/slide2.jpg");
   background-repeat:no-repeat;
   background-position: 90% center;
   background-size: cover;
   position: relative;
   min-height: 650px;
 }.home .banner3{
-  background-image: url("/e-commersial/images/slide.3.jpg");
+  background-image: url("/images/slide.3.jpg");
   background-repeat:no-repeat;
   background-position: 90% center;
   background-size: cover;
